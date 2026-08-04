@@ -3,8 +3,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
-  color: #333;
+  background: #a64a4a;
+  color: #ac5a5a;
 }
 
 .container {
@@ -14,8 +14,8 @@ body {
 }
 
 header {
-  background: #005f73;
-  color: #fff;
+  background: #7c9ca2;
+  color: #ae2525;
   padding: 20px;
   text-align: center;
 }
